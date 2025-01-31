@@ -29,4 +29,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mudavath-Giri-Naik.Mudavath-Giri-Naik)
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mudavath-Giri-Naik&repo=Mudavath-Giri-Naik&countColor=%237B1E7B"/>
