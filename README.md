@@ -16,7 +16,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
@@ -25,6 +25,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
