@@ -12,15 +12,6 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Mudavathgirinaik)](https://leetcode.com/u/Mudavathgirinaik/)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
-
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudavath-Giri-Naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 📈 My Github Stats
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mudavath-Giri-Naik.Mudavath-Giri-Naik)
