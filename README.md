@@ -23,7 +23,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mudavathgirinaik)](https://leetcode.com/u/Mudavathgirinaik/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudavath-Giri-Naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 📈 My Github Stats
 
