@@ -23,8 +23,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudavath-Giri-Naik&theme=tokyonight" alt="mystreak"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudavath-Giri-Naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 📈 My Github Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
