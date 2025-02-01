@@ -4,7 +4,6 @@
 </h1>
 <h3 align="center">A passionate Software Developer from India (IN)</h3>
 <br/>
-
 <table>
   <tr>
     <td style="padding-right: 10px; border: none;">
@@ -15,9 +14,13 @@
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
     </td>
+    
   </tr>
+    <tr>
+    <td style="padding-right: 10px; border: none;" colspan="2" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudavath-Giri-Naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    </td>
+    </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudavath-Giri-Naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
