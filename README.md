@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Giri+Naik" alt="Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=36&color=0A3CF7&height=73&lines=I'm+Giri+Naik)" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=36&color=0A3CF7&height=73&lines=I'm+Giri+Naik" />
+  
 </h1>
 
 <h3 align="center">A passionate software developer from India IN</h3>
