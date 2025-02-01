@@ -5,11 +5,19 @@
 <h3 align="center">A passionate Software Developer from India (IN)</h3>
 <br/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mudavathgirinaik)](https://leetcode.com/u/Mudavathgirinaik/)
+<table>
+  <tr>
+    <td style="padding-right: 10px; border: none;">
+      <a href="https://leetcode.com/u/Mudavathgirinaik/">
+        <img src="https://leetcard.jacoblin.cool/Mudavathgirinaik" alt="Leetcode Stats" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&show_icons=true&theme=gotham" alt="Giri Naik" />
-<br/>
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mudavath-Giri-Naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
