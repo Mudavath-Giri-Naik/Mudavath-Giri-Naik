@@ -16,12 +16,14 @@
 <br/>
 <h2>Backend</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,npm,docker,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,npm,docker,django,gradle,maven)](https://skillicons.dev)
 <br/>
 <h2>Database</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,)](https://skillicons.dev)
 <h2>Softwares</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,webflow,vscode,atom,kubernetes,netlify,cloudflare,heroku,vercel,pycharm,eclipse,idea,git,gitlab,azure,gcp,flutter,discord)](https://skillicons.dev)
 <p align="center">
 
 <!-- OLD github-readme-stats
