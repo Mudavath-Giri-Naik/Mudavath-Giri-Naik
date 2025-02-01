@@ -6,6 +6,22 @@
 </h1>
 <h3 align="center">A passionate Software Developer from India (IN)</h3>
 <br/>
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,java,bash)](https://skillicons.dev)
+<br/>
+<h2>Frontend</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,bootstrap,vue,tailwind,materialui,jquery,vite,webpack,remix,nextjs,threejs)](https://skillicons.dev)
+<br/>
+<h2>Backend</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,npm,docker,django)](https://skillicons.dev)
+<br/>
+<h2>Database</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+<h2>Softwares</h2>
 <p align="center">
 
 <!-- OLD github-readme-stats
