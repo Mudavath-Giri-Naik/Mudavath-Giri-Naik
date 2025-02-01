@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
-</p>
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&pause=1000&color=0A3CF7&width=435&height=73&lines=I'm+Giri+Naik" alt="Typing SVG" /></a>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=36&pause=1000&color=0A3CF7&width=435&height=73&lines=Hi+there%F0%9F%91%8B;I'm+Giri+Naik" alt="Typing SVG" /></a>
+  
 </h1>
 
 <h3 align="center">A passionate software developer from India IN</h3>
