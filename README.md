@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roman&weight=900&size=36&duration=2000&color=0A3CF7&center=true&vCenter=true&width=435&height=73&lines=Hi+there%F0%9F%91%8B;I'm+Giri+Naik" alt="Typing SVG" /></a>
 <br/>
 </h1>
-<h3 align="center">A passionate Software Developer from India (IN)</h3>
+<h3 align="center"> A passionate Software Developer from India (IN)</h3>
 <br/>
 <p align="center">
 
