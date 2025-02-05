@@ -8,7 +8,7 @@
 <br/>
 <p align="center">
 
-<!-- OLD github-readme-stats
+<!-- OLD github-readme-stat
 <a href="https://github.com/Mudavath-Giri-Naik?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-stats"/></a>
 -->
 
