@@ -6,6 +6,7 @@
 </h1>
 <h3 align="center"> A passionate Software Developer from India (IN)</h3>
 <br/>
+<a href="https://github.com/Mudavath-Giri-Naik?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Mudavath-Giri-Naik&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-stats"/></a>
 <p align="center">
 
 <!-- OLD github-readme-stat
