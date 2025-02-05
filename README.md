@@ -12,8 +12,10 @@
 <a href="https://github.com/Mudavath-Giri-Naik?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Mudavath-Giri-Naik&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/Mudavath-Giri-Naik?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Mudavath-Giri-Naik&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-stats"/></a>
 
+<a href="https://github.com/Mudavath-Giri-Naik?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Mudavath-Giri-Naik&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-stats"/></a>
+<a href="https://github.com/Mudavath-Giri-Naik?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mudavath-Giri-Naik&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-streak-stats"/></a>
+<a href="https://github.com/Mudavath-Giri-Naik?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mudavath-Giri-Naik&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Mudavath-Giri-Naik's github-readme-streak-stats"/></a>
 
 </p>
 
